@@ -79,30 +79,13 @@ Follow the detailed guide in `SUPABASE_SETUP.md` to:
 - Configure authentication
 - Set up Row Level Security
 
-7. **Configure environment variables**
-
-Create a `.env` file in the root directory based on `.env.example`:
-
-```
-# MetaMask & Blockchain Configuration
-VITE_CONTRACT_ADDRESS=0xYourDeployedContractAddress
-VITE_CHAIN_ID=80001
-
-# Supabase Configuration
-VITE_SUPABASE_URL=your_supabase_project_url
-VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
-
-# IPFS Configuration
-VITE_WEB3_STORAGE_TOKEN=your_web3_storage_token
-```
-
-8. **Start development server**
+7. **Start development server**
 
 ```bash
 npm run dev
 ```
 
-9. **Build for production**
+8. **Build for production**
 
 ```bash
 npm run build
