@@ -1,4 +1,6 @@
 # CertChain - Blockchain Certificate Verification System
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/076c5a80-d351-4e0f-b3cb-871a547f43bf" />
+
 
 CertChain is a decentralized application (dApp) for issuing, managing, and verifying digital certificates using blockchain technology. It uses Polygon Mumbai blockchain for storing certificates as NFTs and IPFS for decentralized storage of certificate data.
 
